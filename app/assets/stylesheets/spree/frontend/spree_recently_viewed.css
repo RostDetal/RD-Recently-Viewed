@@ -2,3 +2,12 @@
 Placeholder manifest file.
 the installer will append this file to the app vendored assets here: 'vendor/assets/stylesheets/spree/frontend/all.css'
 */
+
+
+.viewed_item {
+    border:1px solid #f5f5f5;
+}
+
+.viewed_item:hover {
+    border:1px solid #00ADEE;
+}
