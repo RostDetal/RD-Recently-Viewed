@@ -1,3 +1,3 @@
 class Spree::RecentlyViewedConfiguration < Spree::Preferences::Configuration
-  preference :recently_viewed_products_max_count, :integer, :default => 9
+  preference :recently_viewed_products_max_count, :integer, :default => 8
 end
